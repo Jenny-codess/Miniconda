@@ -1,2 +1,2 @@
-# Miniconda
+# Biocomputing
 Miniconda codes for Bioinformatics
